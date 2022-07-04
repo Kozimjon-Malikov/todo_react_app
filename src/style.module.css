@@ -1,0 +1,25 @@
+#main{
+    border: 1px solid red;
+    padding: 10px;
+
+}
+#btn_footer{
+    padding: 6px 10px!important;
+}
+.myLabel{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.myLabel h4{
+    padding: 0px 5px;
+}
+.btnTask button{
+margin: 0px 5px;
+}
+#rowME{
+    padding: 8px;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0px 0px 4px 2px rgb(191 191 191);
+}
